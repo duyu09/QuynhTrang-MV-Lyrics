@@ -1,0 +1,164 @@
+1
+0:0:32,3 --> 0:0:38,65
+ Phận là con gái, chưa một lần yêu ai
+
+2
+0:0:38,67 --> 0:0:46,55
+ Nhìn về tương lai mà thấy như sông rộng đường dài
+
+3
+0:0:46,57 --> 0:0:58,0
+ Cảnh nhà neo đơn, bầy em chưa lớn trĩu đôi vai gánh nhọc nhằn
+
+4
+0:0:58,2 --> 0:1:4,18
+ Thầy mẹ thương em nhờ tìm người se duyên
+
+5
+0:1:4,2 --> 0:1:12,35
+ Lòng cầu mong em đậu bến cho yên một bóng thuyền
+
+6
+0:1:12,37 --> 0:1:18,8
+ Lứa đôi tình duyên còn chưa lưu luyến
+
+7
+0:1:18,82 --> 0:1:28,13
+ Sợ người ta đến em khóc sau bao lời khuyên
+
+8
+0:1:28,15 --> 0:1:33,8
+ Chưa yêu lần nào biết ra làm sao
+
+9
+0:1:33,82 --> 0:1:39,48
+ Biết trong tình yêu như thế nào
+
+10
+0:1:39,5 --> 0:1:45,18
+ Sông sâu là bao nào đo được đâu
+
+11
+0:1:45,2 --> 0:1:50,87
+ Lòng người ta ai biết có dài lâu
+
+12
+0:1:50,9 --> 0:1:56,58
+ Qua bao thời gian sống trong bình an
+
+13
+0:1:56,6 --> 0:2:2,35
+ Lỡ yêu người ta gieo trái ngang
+
+14
+0:2:2,35 --> 0:2:7,85
+ Nông sâu tùy sông làm sao mà trông
+
+15
+0:2:7,87 --> 0:2:15,17
+ Chưa đỗ bến biết nơi nào đục trong
+
+16
+0:2:15,2 --> 0:2:21,57
+ Rồi người ta đến theo họ hàng đôi bên
+
+17
+0:2:21,57 --> 0:2:29,35
+ Một ngày nên duyên một bước em nên người vợ hiền
+
+18
+0:2:29,37 --> 0:2:40,78
+ Bỏ lại sau lưng bầy em ngơ ngác đứng trông theo mắt đượm buồn
+
+19
+0:2:40,8 --> 0:2:47,33
+ Thầy mẹ vui hơn mà lệ tràn rưng rưng
+
+20
+0:2:47,35 --> 0:2:55,17
+ Dặn dò con yêu phải sống theo gia đạo bên chồng
+
+21
+0:2:55,18 --> 0:3:1,6
+ Bước qua dòng sông hỏi từng con sóng
+
+22
+0:3:1,62 --> 0:3:9,93
+ Đời người con gái không muốn yêu ai được không?
+
+23
+0:3:9,95 --> 0:3:36,32
+      
+
+24
+0:3:36,33 --> 0:3:42,3
+ Chưa yêu lần nào biết ra làm sao
+
+25
+0:3:42,32 --> 0:3:48,0
+ Biết trong tình yêu như thế nào
+
+26
+0:3:48,2 --> 0:3:53,73
+ Sông sâu là bao nào đo được đâu
+
+27
+0:3:53,75 --> 0:3:59,45
+ Lòng người ta ai biết có dài lâu
+
+28
+0:3:59,45 --> 0:4:5,15
+ Qua bao thời gian sống trong bình an
+
+29
+0:4:5,17 --> 0:4:10,83
+ Lỡ yêu người ta gieo trái ngang
+
+30
+0:4:10,85 --> 0:4:16,28
+ Nông sâu tùy sông làm sao mà trông
+
+31
+0:4:16,3 --> 0:4:23,9
+ Chưa đỗ bến biết nơi nào đục trong
+
+32
+0:4:23,92 --> 0:4:30,1
+ Rồi người ta đến theo họ hàng đôi bên
+
+33
+0:4:30,12 --> 0:4:37,95
+ Một ngày nên duyên một bước em nên người vợ hiền
+
+34
+0:4:37,97 --> 0:4:49,48
+ Bỏ lại sau lưng bầy em ngơ ngác đứng trông theo mắt đượm buồn
+
+35
+0:4:49,52 --> 0:4:55,95
+ Thầy mẹ vui hơn mà lệ tràn rưng rưng
+
+36
+0:4:55,97 --> 0:5:3,82
+ Dặn dò con yêu phải sống theo gia đạo bên chồng
+
+37
+0:5:3,83 --> 0:5:10,27
+ Bước qua dòng sông hỏi từng con sóng
+
+38
+0:5:10,28 --> 0:5:17,82
+ Đời người con gái không muốn yêu ai được không?
+
+39
+0:5:17,83 --> 0:5:24,27
+ Bước qua dòng sông hỏi từng con sóng
+
+40
+0:5:24,28 --> 0:5:36,18
+ Đời người con gái không muốn yêu ai được không?
+
+41
+0:5:36,2 --> 0:5:41,2
+
+

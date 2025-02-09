@@ -1,0 +1,160 @@
+1
+0:0:35,43 --> 0:0:39,17
+ Tôi viết tên anh trên lá trên hoa
+
+2
+0:0:39,18 --> 0:0:42,9
+ Tôi viết tên anh trong trái tim tôi
+
+3
+0:0:42,92 --> 0:0:46,48
+ Tôi viết tên anh trên đá, trên vôi
+
+4
+0:0:46,5 --> 0:0:50,27
+ Tôi viết tên anh ngập nẻo đường đi ngàn lối
+
+5
+0:0:50,3 --> 0:0:53,87
+ Tôi viết tên anh trên gấm, trên nhung
+
+6
+0:0:53,88 --> 0:0:57,58
+ Tôi viết tên anh trên trán, trên tay
+
+7
+0:0:57,6 --> 0:1:1,22
+ Tôi viết tên anh trong gió, trong mây
+
+8
+0:1:1,23 --> 0:1:8,2
+ Tôi viết tên anh vào lòng biển lớn sông dài
+
+9
+0:1:8,3 --> 0:1:15,38
+ Anh, lớp trai ngày nay đắp xây ngày mai
+
+10
+0:1:15,4 --> 0:1:18,98
+ Đem tự do cho người
+
+11
+0:1:19,0 --> 0:1:22,73
+ mang niềm vui cho đời
+
+12
+0:1:22,75 --> 0:1:27,12
+ Anh, nơi biên thùy xa
+
+13
+0:1:27,12 --> 0:1:30,12
+ Vắng muôn màu hoa
+
+14
+0:1:30,15 --> 0:1:33,88
+ Không hề nao núng lòng
+
+15
+0:1:33,9 --> 0:1:38,1
+ Oai hùng nơi chiến trường
+
+16
+0:1:38,12 --> 0:1:41,88
+ Tôi nhớ tên anh khi gió khi mưa
+
+17
+0:1:41,9 --> 0:1:45,55
+ Tôi nhớ tên anh khi nắng lưa thưa
+
+18
+0:1:45,57 --> 0:1:49,23
+ Tôi nhớ tên anh qua ánh trăng thanh
+
+19
+0:1:49,25 --> 0:1:52,98
+ Khi tiếng tơ ngân vào lòng thời gian màu tím
+
+20
+0:1:53,0 --> 0:1:56,65
+ Tôi nhớ tên anh như nhớ tương lai
+
+21
+0:1:56,67 --> 0:2:0,33
+ Tôi nhớ tên anh như nhớ trông ai
+
+22
+0:2:0,35 --> 0:2:4,5
+ Tôi nhớ tên anh muôn kiếp không phai
+
+23
+0:2:4,7 --> 0:2:9,37
+ Tôi chắc trong tôi đời đời còn nhớ nhung hoài
+
+24
+0:2:43,95 --> 0:2:51,35
+ Anh, lớp trai ngày nay đắp xây ngày mai
+
+25
+0:2:51,35 --> 0:2:55,5
+ Đem tự do cho người
+
+26
+0:2:55,7 --> 0:2:58,73
+ mang niềm vui cho đời
+
+27
+0:2:58,75 --> 0:3:2,8
+ Anh, nơi biên thùy xa
+
+28
+0:3:2,82 --> 0:3:6,13
+ Vắng muôn màu hoa
+
+29
+0:3:6,15 --> 0:3:9,82
+ Không hề nao núng lòng
+
+30
+0:3:9,83 --> 0:3:14,1
+ Oai hùng nơi chiến trường
+
+31
+0:3:14,12 --> 0:3:17,95
+ Tôi nhớ tên anh khi gió khi mưa
+
+32
+0:3:17,97 --> 0:3:21,65
+ Tôi nhớ tên anh khi nắng lưa thưa
+
+33
+0:3:21,67 --> 0:3:25,28
+ Tôi nhớ tên anh qua ánh trăng thanh
+
+34
+0:3:25,3 --> 0:3:29,1
+ Khi tiếng tơ ngân vào lòng thời gian màu tím
+
+35
+0:3:29,12 --> 0:3:32,75
+ Tôi nhớ tên anh như nhớ tương lai
+
+36
+0:3:32,77 --> 0:3:36,38
+ Tôi nhớ tên anh như nhớ trông ai
+
+37
+0:3:36,4 --> 0:3:40,2
+ Tôi nhớ tên anh muôn kiếp không phai
+
+38
+0:3:40,2 --> 0:3:45,47
+ Tôi chắc trong tôi đời đời còn nhớ nhung hoài
+
+39
+0:3:45,5 --> 0:3:49,28
+ Tôi nhớ tên anh muôn kiếp không phai
+
+40
+0:3:49,3 --> 0:3:56,95
+ Tôi chắc trong tôi đời đời còn nhớ nhung hoài
+

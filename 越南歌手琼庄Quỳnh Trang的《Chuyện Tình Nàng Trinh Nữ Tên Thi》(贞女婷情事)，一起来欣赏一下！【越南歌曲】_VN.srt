@@ -1,0 +1,180 @@
+1
+0:0:31,4 --> 0:0:37,6
+ Thuở ấy xa xưa có một nàng một nàng thiếu nữ
+
+2
+0:0:37,62 --> 0:0:43,62
+ Một đóa hoa hồng tình phơi phới tuổi mới trăng tròn
+
+3
+0:0:43,62 --> 0:0:48,8
+ Cuộc đời hồng nhan cay và đắng thôi thì lắm trái ngang
+
+4
+0:0:48,82 --> 0:0:51,13
+ Bao nhiêu trai làng yêu nàng
+
+5
+0:0:51,15 --> 0:0:53,75
+ Đi theo xin nàng tim vàng
+
+6
+0:0:53,77 --> 0:0:57,5
+ Nàng vẫn không màng
+
+7
+0:1:0,67 --> 0:1:6,92
+ Nàng đã trót yêu yêu một chàng một chàng nghệ sĩ
+
+8
+0:1:6,95 --> 0:1:12,95
+ Tình hỡi ơi tình chàng đã có đã có gia đình
+
+9
+0:1:12,95 --> 0:1:18,15
+ Người đời cười chê cho tình đó như là gió với trăng
+
+10
+0:1:18,17 --> 0:1:20,23
+ E sao duyên mình không thành
+
+11
+0:1:20,25 --> 0:1:22,87
+ Như bao cô nàng thất tình
+
+12
+0:1:22,88 --> 0:1:26,22
+ Nàng khóc một mình
+
+13
+0:1:26,23 --> 0:1:30,32
+ Thi ơi Thi ơi Thi,Thi biết biết không Thi?
+
+14
+0:1:30,33 --> 0:1:34,53
+ Khi con tim yêu đương là sống với đau thương
+
+15
+0:1:34,55 --> 0:1:37,88
+ Khi con tim yêu đương là chết với u sầu
+
+16
+0:1:37,9 --> 0:1:42,42
+ Thì Thi đã biết cớ sao Thi buồn
+
+17
+0:1:42,43 --> 0:1:48,62
+ Nàng quyết ra đi xa làng mình người tình yêu dấu
+
+18
+0:1:48,63 --> 0:1:54,7
+ Đời ngỡ chắc rằng nàng đã bước đã bước qua cầu
+
+19
+0:1:54,72 --> 0:1:59,92
+ Mà nào ngờ đâu ôm tình ấy đi tìm dẫy núi cao
+
+20
+0:1:59,92 --> 0:2:1,88
+ Đi sâu vô rừng quên tình
+
+21
+0:2:1,92 --> 0:2:4,6
+ Hay đi vô rừng trốn mình
+
+22
+0:2:4,62 --> 0:2:9,93
+ Tình vẫn u sầu
+
+23
+0:2:11,55 --> 0:2:17,85
+ Từ đó không ai ai còn gặp gặp nàng đâu nữạ
+
+24
+0:2:17,85 --> 0:2:23,85
+ Chỉ có con chim rừng nhiều khi thấy nàng khóc một mình
+
+25
+0:2:23,87 --> 0:2:29,2
+ Rồi một mùa đông chim nhìn thấy thấy nàng dưới gốc cây
+
+26
+0:2:29,2 --> 0:2:31,17
+ Tương tư nhân tình khôn lường
+
+27
+0:2:31,2 --> 0:2:33,7
+ Đau thương u tình vô cùng
+
+28
+0:2:33,7 --> 0:2:37,17
+ Nàng chết trong rừng
+
+29
+0:2:37,18 --> 0:2:41,32
+ Thi ơi Thi ơi Thi,Thi biết biết không Thi?
+
+30
+0:2:41,33 --> 0:2:45,5
+ Khi con tim yêu đương là sống với đau thương
+
+31
+0:2:45,52 --> 0:2:48,9
+ Khi con tim yêu đương là chết với u sầu
+
+32
+0:2:48,92 --> 0:2:54,0
+ Thì Thi đã biết cớ sao Thi buồn
+
+33
+0:3:14,83 --> 0:3:18,93
+ Thi ơi Thi ơi Thi,Thi biết biết không Thi?
+
+34
+0:3:18,95 --> 0:3:23,5
+ Khi con tim yêu đương là sống với đau thương
+
+35
+0:3:23,5 --> 0:3:26,37
+ Khi con tim yêu đương là chết với u sầu
+
+36
+0:3:26,38 --> 0:3:30,87
+ Thì Thi đã biết cớ sao Thi buồn
+
+37
+0:3:30,88 --> 0:3:37,28
+ Từ đó không ai ai còn gặp gặp nàng đâu nữạ
+
+38
+0:3:37,3 --> 0:3:43,7
+ Chỉ có con chim rừng nhiều khi thấy nàng khóc một mình
+
+39
+0:3:43,8 --> 0:3:48,28
+ Rồi một mùa đông chim nhìn thấy thấy nàng dưới gốc cây
+
+40
+0:3:48,3 --> 0:3:50,47
+ Tương tư nhân tình khôn lường
+
+41
+0:3:50,47 --> 0:3:53,0
+ Đau thương u tình vô cùng
+
+42
+0:3:53,2 --> 0:3:56,63
+ Nàng chết trong rừng
+
+43
+0:3:56,65 --> 0:3:58,88
+ Tương tư nhân tình khôn lường
+
+44
+0:3:58,9 --> 0:4:1,42
+ Đau thương u tình vô cùng
+
+45
+0:4:1,45 --> 0:4:11,38
+ Nàng chết trong rừng
+

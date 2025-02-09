@@ -1,0 +1,164 @@
+1
+0:0:28,35 --> 0:0:33,6
+ Xuân đã về đây anh có nghe chăng
+
+2
+0:0:33,62 --> 0:0:37,98
+ xuân đẹp làm sao xuân khắp nơi nơi
+
+3
+0:0:38,0 --> 0:0:40,65
+ mẹ đang khấn nguyện mong phúc lành
+
+4
+0:0:40,67 --> 0:0:43,83
+ cha đang vẽ lại đôi thiếp hồng
+
+5
+0:0:43,85 --> 0:0:47,1
+ chị và em gói bánh chưng xanh
+
+6
+0:0:49,5 --> 0:0:54,48
+ Mong cành đào tươi phương Bắc thân thương
+
+7
+0:0:54,5 --> 0:0:58,57
+ mai vàng lộc xuân em gửi cho anh
+
+8
+0:0:58,6 --> 0:1:1,28
+ yêu thương gói trọn xuân nghĩa tình
+
+9
+0:1:1,3 --> 0:1:4,25
+ bôn ba nhớ về quê với mẹ
+
+10
+0:1:4,25 --> 0:1:10,72
+ mẹ miền Trung đón con xa nhà
+
+11
+0:1:10,75 --> 0:1:16,17
+ Trên quê hương tôi đây xôn xao tiếng cười câu chúc lành
+
+12
+0:1:16,17 --> 0:1:21,63
+ trên quê hương tôi đây trăm hoa hé nhụy khi tết về
+
+13
+0:1:21,67 --> 0:1:24,38
+ mong yên vui sớm hôm an lành
+
+14
+0:1:24,4 --> 0:1:27,2
+ mong nước non hai mùa lúa đầy
+
+15
+0:1:27,2 --> 0:1:32,67
+ gửi cho nhau chúc câu bình an
+
+16
+0:1:32,7 --> 0:1:38,15
+ Mong cho anh nông dân hoa thơm lúa vàng trên cánh đồng
+
+17
+0:1:38,17 --> 0:1:42,62
+ mong cho cô công nhân tăng ca góp phần cho nước nhà
+
+18
+0:1:42,62 --> 0:1:48,22
+ tết là đoàn viên của một năm, tết là niền vui anh với em
+
+19
+0:1:48,25 --> 0:1:55,23
+ nhà ai mừng lắm đón cô dâu rể hiền năm nay
+
+20
+0:1:55,25 --> 0:2:0,72
+ Mâm quả trà sen bên mứt hương cau
+
+21
+0:2:0,72 --> 0:2:4,85
+ vui lòng mẹ cha đôi lứa bên nhau
+
+22
+0:2:4,87 --> 0:2:7,55
+ xuân nay đã về khắp phố phường
+
+23
+0:2:7,57 --> 0:2:10,75
+ xuân thay áo hồng cho mỗi người
+
+24
+0:2:10,77 --> 0:2:15,22
+ đẹp làm sao tết quê hương mình
+
+25
+0:2:55,48 --> 0:3:0,88
+ Trên quê hương tôi đây xôn xao tiếng cười câu chúc lành
+
+26
+0:3:0,9 --> 0:3:6,52
+ trên quê hương tôi đây trăm hoa hé nhụy khi tết về
+
+27
+0:3:6,53 --> 0:3:9,18
+ mong yên vui sớm hôm an lành
+
+28
+0:3:9,2 --> 0:3:12,2
+ mong nước non hai mùa lúa đầy
+
+29
+0:3:12,3 --> 0:3:17,47
+ gửi cho nhau chúc câu bình an
+
+30
+0:3:17,48 --> 0:3:23,0
+ Mong cho anh nông dân hoa thơm lúa vàng trên cánh đồng
+
+31
+0:3:23,2 --> 0:3:27,48
+ mong cho cô công nhân tăng ca góp phần cho nước nhà
+
+32
+0:3:27,5 --> 0:3:33,2
+ tết là đoàn viên của một năm, tết là niền vui anh với em
+
+33
+0:3:33,3 --> 0:3:39,97
+ nhà ai mừng lắm đón cô dâu rể hiền năm nay
+
+34
+0:3:39,98 --> 0:3:45,43
+ Mâm quả trà sen bên mứt hương cau
+
+35
+0:3:45,45 --> 0:3:49,52
+ vui lòng mẹ cha đôi lứa bên nhau
+
+36
+0:3:49,55 --> 0:3:52,37
+ xuân nay đã về khắp phố phường
+
+37
+0:3:52,37 --> 0:3:55,52
+ xuân thay áo hồng cho mỗi người
+
+38
+0:3:55,55 --> 0:3:59,5
+ đẹp làm sao tết quê hương mình
+
+39
+0:4:0,92 --> 0:4:3,23
+ xuân nay đã về khắp phố phường
+
+40
+0:4:3,25 --> 0:4:6,58
+ xuân thay áo hồng cho mỗi người
+
+41
+0:4:6,6 --> 0:4:13,15
+ đẹp làm sao tết quê hương mình
+

@@ -1,0 +1,208 @@
+1
+0:0:42,63 --> 0:0:47,27
+Em chưa từng thấy biển
+
+2
+0:0:47,27 --> 0:0:51,92
+Em chỉ biết dòng sông
+
+3
+0:0:51,92 --> 0:0:56,49
+Nhưng có nghe cô dạy
+
+4
+0:0:56,49 --> 0:1:1,3
+Biển thì rộng hơn sông
+
+5
+0:1:1,3 --> 0:1:4,98
+Biển thì rộng mênh mông
+
+6
+0:1:4,98 --> 0:1:10,2
+Bao la biển xanh mặn nồng
+
+7
+0:1:10,2 --> 0:1:13,33
+Một đời người như sông
+
+8
+0:1:13,33 --> 0:1:17,88
+Nếu ai sống cho riêng mình thì lòng hẹp như sông
+
+9
+0:1:17,88 --> 0:1:23,9
+Nếu ai sống cho muôn người thì lòng rộng mênh mông
+
+10
+0:1:23,9 --> 0:1:28,4
+Em chưa từng thấy Phật
+
+11
+0:1:28,4 --> 0:1:33,1
+Em chỉ biết hình thôi
+
+12
+0:1:33,1 --> 0:1:37,53
+Nhưng có nghe cô dạy
+
+13
+0:1:37,53 --> 0:1:43,11
+Phật thì ở trong Tâm
+
+14
+0:1:43,11 --> 0:1:46,12
+Phật thì ở trong Tâm
+
+15
+0:1:46,12 --> 0:1:51,21
+Ở trong tất cả mọi người
+
+16
+0:1:51,21 --> 0:1:54,42
+Một đời người như sông
+
+17
+0:1:54,42 --> 0:1:58,98
+Nếu ai sống cho riêng mình thì Phật ẩn đi thôi
+
+18
+0:1:58,98 --> 0:2:6,36
+Nếu ai sống cho muôn người thì Phật hiện muôn nơi
+
+19
+0:2:6,36 --> 0:2:36,91
+
+
+20
+0:2:36,91 --> 0:2:41,55
+Em chưa từng thấy biển
+
+21
+0:2:41,55 --> 0:2:46,12
+Em chỉ biết dòng sông
+
+22
+0:2:46,12 --> 0:2:50,72
+Nhưng có nghe cô dạy
+
+23
+0:2:50,72 --> 0:2:55,37
+Đừng để lòng hẹp như sông
+
+24
+0:2:55,37 --> 0:2:59,21
+Hãy để lòng rộng mênh mông
+
+25
+0:2:59,21 --> 0:3:4,45
+Bao la biển xanh mặn nồng
+
+26
+0:3:4,45 --> 0:3:7,58
+Một đời người như sông
+
+27
+0:3:7,58 --> 0:3:12,17
+Nếu ai sống cho riêng mình thì lòng hẹp như sông
+
+28
+0:3:12,17 --> 0:3:18,15
+Nếu ai sống cho muôn người thì lòng rộng mênh mông
+
+29
+0:3:18,15 --> 0:3:22,74
+Em chưa từng thấy Phật
+
+30
+0:3:22,74 --> 0:3:27,24
+Em chỉ biết hình thôi
+
+31
+0:3:27,24 --> 0:3:31,85
+Nhưng có nghe cô dạy
+
+32
+0:3:31,85 --> 0:3:36,34
+Phật thì ở trong Tâm
+
+33
+0:3:36,34 --> 0:3:40,41
+Phật thì ở trong Tâm
+
+34
+0:3:40,41 --> 0:3:45,6
+Ở trong tất cả mọi người
+
+35
+0:3:45,6 --> 0:3:48,75
+Một đời người như sông
+
+36
+0:3:48,75 --> 0:3:53,23
+Nếu ai sống cho riêng mình thì Phật ẩn đi thôi
+
+37
+0:3:53,23 --> 0:3:59,22
+Nếu ai sống cho muôn người thì Phật hiện muôn nơi
+
+38
+0:3:59,22 --> 0:4:2,49
+Một đời người như sông
+
+39
+0:4:2,49 --> 0:4:6,98
+Nếu ai sống cho riêng mình thì Phật ẩn đi thôi
+
+40
+0:4:6,98 --> 0:4:10,96
+Nếu ai sống cho muôn người...
+
+41
+0:4:10,96 --> 0:4:19,68
+Thì Phật hiện muôn nơi
+
+42
+0:4:19,68 --> 0:4:47,27
+
+
+43
+0:4:47,27 --> 0:4:51,19
+Phật thì ở trong Tâm
+
+44
+0:4:51,19 --> 0:4:56,29
+Ở trong tất cả mọi người
+
+45
+0:4:56,29 --> 0:4:59,42
+Một đời người như sông
+
+46
+0:4:59,42 --> 0:5:3,99
+Nếu ai sống cho riêng mình thì Phật ẩn đi thôi
+
+47
+0:5:3,99 --> 0:5:10,4
+Nếu ai sống cho muôn người thì Phật hiện muôn nơi
+
+48
+0:5:10,4 --> 0:5:13,22
+Một đời người như sông
+
+49
+0:5:13,22 --> 0:5:17,75
+Nếu ai sống cho riêng mình thì Phật ẩn đi thôi
+
+50
+0:5:17,75 --> 0:5:21,87
+Nếu ai sống cho muôn người...
+
+51
+0:5:21,87 --> 0:5:30,55
+Thì Phật hiện muôn nơi
+
+52
+0:5:30,55 --> 0:5:38,0
+
+

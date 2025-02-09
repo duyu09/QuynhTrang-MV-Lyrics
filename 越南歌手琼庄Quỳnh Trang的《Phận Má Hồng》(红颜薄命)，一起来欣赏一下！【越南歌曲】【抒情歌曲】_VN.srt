@@ -1,0 +1,172 @@
+1
+0:0:27,62 --> 0:0:33,93
+ Trời làm phong ba đến tận bao giờ
+
+2
+0:0:33,95 --> 0:0:41,5
+ Để cành hoa tan nát dưới trời mưa
+
+3
+0:0:41,7 --> 0:0:44,38
+ Đôi chân lê bước thương đau
+
+4
+0:0:44,4 --> 0:0:47,7
+ Đi trong giá buốt canh thâu
+
+5
+0:0:47,7 --> 0:0:53,12
+ Phận má hồng nặng gánh ưu sầu
+
+6
+0:0:53,13 --> 0:0:59,43
+ Một lần ra đi xót xa vô vàn
+
+7
+0:0:59,45 --> 0:1:6,6
+ Đời đầy chông gai biết đâu niềm vui
+
+8
+0:1:6,62 --> 0:1:9,82
+ Ôi bao nhiêu nỗi oan khiên
+
+9
+0:1:9,82 --> 0:1:12,93
+ Mang trên thân gái cô đơn
+
+10
+0:1:12,97 --> 0:1:18,72
+ Phận má hồng một kiếp truân chuyên
+
+11
+0:1:18,72 --> 0:1:22,58
+ Mưa rơi rơi mưa vẫn rơi
+
+12
+0:1:22,6 --> 0:1:26,2
+ Mưa ướt đôi chân miệt mài
+
+13
+0:1:26,5 --> 0:1:31,38
+ Mưa ướt tâm tư ngậm ngùi
+
+14
+0:1:31,4 --> 0:1:35,52
+ Mưa rơi rơi mưa vẫn rơi
+
+15
+0:1:35,52 --> 0:1:38,73
+ Nước mắt nhân gian nghìn đời
+
+16
+0:1:38,75 --> 0:1:44,23
+ Như đã dâng đầy biển khơi
+
+17
+0:1:44,25 --> 0:1:50,6
+ Hận đời sinh ra lắm kẻ vô tình
+
+18
+0:1:50,62 --> 0:1:57,78
+ Dập vùi đời hoa tấm thân mong manh
+
+19
+0:1:57,8 --> 0:2:1,2
+ Như sương như khói mau tàn
+
+20
+0:2:1,3 --> 0:2:4,15
+ Trong đêm giông tố miên man
+
+21
+0:2:4,17 --> 0:2:10,92
+ Phận má hồng đầy nỗi ưu phiền!
+
+22
+0:2:38,6 --> 0:2:44,93
+ Một lần ra đi xót xa vô vàn
+
+23
+0:2:44,95 --> 0:2:52,1
+ Đời đầy chông gai biết đâu niềm vui
+
+24
+0:2:52,12 --> 0:2:55,42
+ Ôi bao nhiêu nỗi oan khiên
+
+25
+0:2:55,43 --> 0:2:58,48
+ Mang trên thân gái cô đơn
+
+26
+0:2:58,5 --> 0:3:4,28
+ Phận má hồng một kiếp truân chuyên
+
+27
+0:3:4,3 --> 0:3:8,17
+ Mưa rơi rơi mưa vẫn rơi
+
+28
+0:3:8,17 --> 0:3:11,68
+ Mưa ướt đôi chân miệt mài
+
+29
+0:3:11,72 --> 0:3:17,3
+ Mưa ướt tâm tư ngậm ngùi
+
+30
+0:3:17,5 --> 0:3:21,3
+ Mưa rơi rơi mưa vẫn rơi
+
+31
+0:3:21,5 --> 0:3:24,35
+ Nước mắt nhân gian nghìn đời
+
+32
+0:3:24,37 --> 0:3:29,92
+ Như đã dâng đầy biển khơi
+
+33
+0:3:29,92 --> 0:3:36,12
+ Hận đời sinh ra lắm kẻ vô tình
+
+34
+0:3:36,15 --> 0:3:43,35
+ Dập vùi đời hoa tấm thân mong manh
+
+35
+0:3:43,35 --> 0:3:46,6
+ Như sương như khói mau tàn
+
+36
+0:3:46,62 --> 0:3:49,73
+ Trong đêm giông tố miên man
+
+37
+0:3:49,75 --> 0:3:56,23
+ Phận má hồng đầy nỗi ưu phiền!
+
+38
+0:3:56,25 --> 0:3:59,33
+ Như sương như khói mau tàn
+
+39
+0:3:59,35 --> 0:4:2,5
+ Trong đêm giông tố miên man
+
+40
+0:4:2,52 --> 0:4:8,87
+ Phận má hồng đầy nỗi ưu phiền!
+
+41
+0:4:8,88 --> 0:4:12,25
+ Như sương như khói mau tàn
+
+42
+0:4:12,27 --> 0:4:15,52
+ Trong đêm giông tố miên man
+
+43
+0:4:15,53 --> 0:4:21,25
+ Phận má hồng đầy nỗi ưu phiền!
+
