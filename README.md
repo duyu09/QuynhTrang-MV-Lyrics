@@ -1,6 +1,9 @@
+# 越南歌手琼庄(Quỳnh Trang) MV歌词及其汉语翻译
+## Lời bài hát MV của ca sĩ Quỳnh Trang và bản dịch tiếng Trung
 
+### 以下表格为文件清单
 
-| 序号 | 歌曲越南语原名 | 汉语翻译名 | 越南语字幕链接 | 汉语翻译字幕 |
+| 序号<br>Số Thứ Tự | 歌曲原名<br>Tên Gốc Của Bài Hát | 汉语译名<br>Tên Dịch Tiếng Trung | 越南语字幕链接<br>Liên Kết Phụ Đề Tiếng Việt | 汉语翻译字幕链接<br>Liên Kết Phụ Đề Dịch Tiếng Trung |
 |------|----------------|------------|----------------|--------------|
 | 1    | __Chiều Sân Bay__ | 午后的机场 | <a href="越南歌手琼庄Quỳnh Trang的《Chiều Sân Bay》(午后的机场)，一起来欣赏一下！【越南歌曲】【抒情歌曲】【东南亚歌曲】【Bolero】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Chiều Sân Bay》(午后的机场)，一起来欣赏一下！【越南歌曲】【抒情歌曲】【东南亚歌曲】【Bolero】_CN.srt">汉语翻译字幕</a> |
 | 2    | __Chuyến Tàu Hoàng Hôn__ | 黄昏列车 | <a href="越南歌手琼庄Quỳnh Trang的《Chuyến Tàu Hoàng Hôn》(黄昏列车)，一起来欣赏一下！【越南歌曲】【MV】【4K超高清】【抒情歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Chuyến Tàu Hoàng Hôn》(黄昏列车)，一起来欣赏一下！【越南歌曲】【MV】【4K超高清】【抒情歌曲】_CN.srt">汉语翻译字幕</a> |
@@ -34,3 +37,23 @@
 | 30   | __Đón Xuân__ | 迎春 | <a href="越南歌手琼庄Quỳnh Trang的《Đón Xuân》(迎春)，一起来欣赏一下！【越南歌曲】【春节歌曲】【4K超高清】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Đón Xuân》(迎春)，一起来欣赏一下！【越南歌曲】【春节歌曲】【4K超高清】_CN.srt">汉语翻译字幕</a> |
 | 31   | __Đừng Xa Em Đêm Nay__ | 今晚不要离开我 | <a href="越南歌手琼庄Quỳnh Trang的《Đừng Xa Em Đêm Nay》(今晚不要离开我)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Đừng Xa Em Đêm Nay》(今晚不要离开我)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_CN.srt">汉语翻译字幕</a> |
 | 32   | __Ước Nguyện__ | 祈愿 | <a href="越南歌手琼庄Quỳnh Trang的《Ước Nguyện》(祈愿)，一起来欣赏一下！【越南歌曲】【佛教歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Ước Nguyện》(祈愿)，一起来欣赏一下！【越南歌曲】【佛教歌曲】_CN.srt">汉语翻译字幕</a> |
+
+<b>
+&nbsp;&nbsp;上述所有歌词对应的MV均在本人B站账号转载，<a href="https://space.bilibili.com/1065298084">单击此处跳转(https://space.bilibili.com/1065298084)</a>，欢迎大家观看。歌词原文查找自网络内容或人工逐句“听写”，歌词翻译使用LLM，有人工校对与润色，但差错在所难免，若发现错误可通过包括但不限于issues或电子邮件等任何方式与我交流。
+  
+&nbsp;&nbsp;您若有喃字数字化研究以及NLP自然语言处理技术（机器翻译、转写、自然语言理解、文本生成等）结合越南语、壮语、苗瑶语等的应用研究的兴趣，也欢迎与我交流。
+</b>
+
+<p>
+&nbsp;&nbsp;Tất cả các MV tương ứng với lời bài hát trên đều đã được tôi đăng tải lại trên tài khoản Bilibili của mình. <a href="https://space.bilibili.com/1065298084">Nhấn vào đây để chuyển hướng (https://space.bilibili.com/1065298084)</a>, mọi người hãy cùng xem nhé. Lời bài hát gốc được tìm kiếm từ nội dung trên mạng hoặc được nghe và ghi lại từng câu một. Bản dịch lời bài hát sử dụng LLM, đã được hiệu đính và trau chuốt bởi con người, nhưng sai sót là điều khó tránh khỏi. Nếu phát hiện lỗi, bạn có thể liên hệ với tôi thông qua bất kỳ phương thức nào, bao gồm nhưng không giới hạn ở issues hoặc email.
+
+&nbsp;&nbsp;Nếu bạn có hứng thú với nghiên cứu số hóa chữ Nôm và ứng dụng công nghệ NLP (xử lý ngôn ngữ tự nhiên) như dịch máy, chuyển tự, hiểu ngôn ngữ tự nhiên, tạo văn bản, v.v. kết hợp với tiếng Việt, tiếng Tráng, tiếng Miêu Dao, v.v., cũng đừng ngần ngại liên hệ với tôi để trao đổi.
+</p>
+
+### 访客统计 (Thống Kê Số Lượng Khách Truy Cập)
+
+<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br>
+<img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
+
+<div><b>Number of Total Visits (Quỳnh Trang MV Lyrics): </b>
+<br><img src="https://profile-counter.glitch.me/duyu09-QuynhTrang-MV-Lyrics/count.svg" /></div> 
