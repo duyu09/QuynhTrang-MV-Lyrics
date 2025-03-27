@@ -1,112 +1,112 @@
 1
-0:0:30,9 --> 0:0:42,93
+00:00:30,900 --> 00:00:42,930
 Đồi sim tím buồn như mắt của người chiều nào trên lối xưa
 
 2
-0:0:42,95 --> 0:0:54,68
+00:00:42,950 --> 00:00:54,680
 Màu sim tím dào dạt theo sầu nhớ cách chia xui biệt ly
 
 3
-0:0:54,7 --> 0:1:6,93
+00:00:54,700 --> 00:01:06,930
 Lòng sim như tim vỡ dưới trời ta, mất đi bao niềm tiếc
 
 4
-0:1:6,95 --> 0:1:18,68
+00:01:06,950 --> 00:01:18,680
 Tình sim không đem đến những yên vui khi sắc tím u buồn
 
 5
-0:1:18,7 --> 0:1:30,93
+00:01:18,700 --> 00:01:30,930
 Chuyện năm trước ở đây có một nàng chiều chiều ra hái sim
 
 6
-0:1:30,95 --> 0:1:42,53
+00:01:30,950 --> 00:01:42,530
 Chẳng đem bán vì yêu sim màu tím thế nên tim quạnh hiu
 
 7
-0:1:42,55 --> 0:1:54,73
+00:01:42,550 --> 00:01:54,730
 Mùa đông sang nghe gió đến nửa đêm tránh sao cho khỏi rét
 
 8
-0:1:54,75 --> 0:2:8,18
+00:01:54,750 --> 00:02:08,180
 Nàng yêu sim yêu thắm thiết say mê, yêu sắc tím u buồn
 
 9
-0:2:8,2 --> 0:2:20,8
+00:02:08,200 --> 00:02:20,800
 Nhưng chẳng may cho một hôm khói súng tràn lan
 
 10
-0:2:20,1 --> 0:2:33,98
+00:02:20,100 --> 00:02:33,980
 Đem nàng đi trong một chuyến mãi mãi không về
 
 11
-0:2:34,0 --> 0:2:37,7
+00:02:34,000 --> 00:02:37,700
 Sao lòng người hay dễ quên
 
 12
-0:2:37,7 --> 0:2:43,17
+00:02:37,700 --> 00:02:43,170
 Chuyện người em gái hái sim chết trên đồi hoang
 
 13
-0:2:43,2 --> 0:2:48,68
+00:02:43,200 --> 00:02:48,680
 Bây giờ còn đâu dáng xưa Với giọng cười đùa
 
 14
-0:2:48,7 --> 0:2:54,18
+00:02:48,700 --> 00:02:54,180
 tiếng nói ngọt ngào
 
 15
-0:2:54,2 --> 0:3:6,18
+00:02:54,200 --> 00:03:06,180
 Vì như thế đồi sim vắng đi nàng chẳng còn ra hái sim
 
 16
-0:3:6,2 --> 0:3:18,18
+00:03:06,200 --> 00:03:18,180
 Để sim tím càng tô thêm màu tím, tím ơi gieo buồn thêm
 
 17
-0:3:18,2 --> 0:3:30,68
+00:03:18,200 --> 00:03:30,680
 Đường xưa đây nay vắng bóng nàng đi bốn bên như quạnh hiu
 
 18
-0:3:30,7 --> 0:3:43,88
+00:03:30,700 --> 00:03:43,880
 Nàng qua đi trong nỗi nhớ khôn nguôi gây luyến tiếc cho đời
 
 19
-0:3:58,0 --> 0:4:1,7
+00:03:58,000 --> 00:04:01,700
 Sao lòng người hay dễ quên
 
 20
-0:4:1,7 --> 0:4:6,67
+00:04:01,700 --> 00:04:06,670
 Chuyện người em gái hái sim chết trên đồi hoang
 
 21
-0:4:6,7 --> 0:4:12,8
+00:04:06,700 --> 00:04:12,800
 Bây giờ còn đâu dáng xưa Với giọng cười đùa
 
 22
-0:4:12,1 --> 0:4:19,3
+00:04:12,100 --> 00:04:19,300
 tiếng nói ngọt ngào
 
 23
-0:4:19,5 --> 0:4:30,18
+00:04:19,500 --> 00:04:30,180
 Vì như thế đồi sim vắng đi nàng chẳng còn ra hái sim
 
 24
-0:4:30,2 --> 0:4:43,18
+00:04:30,200 --> 00:04:43,180
 Để sim tím càng tô thêm màu tím, tím ơi gieo buồn thêm
 
 25
-0:4:43,2 --> 0:4:53,98
+00:04:43,200 --> 00:04:53,980
 Đường xưa đây nay vắng bóng nàng đi bốn bên như quạnh hiu
 
 26
-0:4:54,0 --> 0:5:6,18
+00:04:54,000 --> 00:05:06,180
 Nàng qua đi trong nỗi nhớ khôn nguôi gây luyến tiếc cho đời
 
 27
-0:5:6,2 --> 0:5:18,18
+00:05:06,200 --> 00:05:18,180
 Nàng qua đi trong nỗi nhớ khôn nguôi gây luyến tiếc cho đời
 
 28
-0:5:18,2 --> 0:5:31,8
+00:05:18,200 --> 00:05:31,800
 Nàng qua đi trong nỗi nhớ khôn nguôi gây luyến tiếc cho đời
 
