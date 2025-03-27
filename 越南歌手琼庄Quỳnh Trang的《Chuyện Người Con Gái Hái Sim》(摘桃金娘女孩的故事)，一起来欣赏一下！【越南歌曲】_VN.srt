@@ -35,7 +35,7 @@ Nàng yêu sim yêu thắm thiết say mê, yêu sắc tím u buồn
 Nhưng chẳng may cho một hôm khói súng tràn lan
 
 10
-00:02:20,100 --> 00:02:33,980
+00:02:20,880 --> 00:02:33,980
 Đem nàng đi trong một chuyến mãi mãi không về
 
 11
@@ -83,7 +83,7 @@ Chuyện người em gái hái sim chết trên đồi hoang
 Bây giờ còn đâu dáng xưa Với giọng cười đùa
 
 22
-00:04:12,100 --> 00:04:19,300
+00:04:12,880 --> 00:04:19,300
 tiếng nói ngọt ngào
 
 23

@@ -51,7 +51,7 @@
  Hướng theo một bóng người
 
 14
-00:02:07,100 --> 00:02:19,300
+00:02:07,850 --> 00:02:19,300
  Tà dương khuất trong sương là mỗi lần ngóng chờ
 
 15
