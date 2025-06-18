@@ -38,7 +38,7 @@
 | 32   | __Ước Nguyện__ | 祈愿 | <a href="越南歌手琼庄Quỳnh Trang的《Ước Nguyện》(祈愿)，一起来欣赏一下！【越南歌曲】【佛教歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Ước Nguyện》(祈愿)，一起来欣赏一下！【越南歌曲】【佛教歌曲】_CN.srt">汉语翻译字幕</a> |
 | 33   | __Mẹ Từ Bi__ | 慈悲母 | <a href="越南歌手琼庄Quỳnh Trang的《Mẹ Từ Bi》(慈悲母)，一起来欣赏一下！【越南歌曲】【佛教歌曲】【东南亚歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Mẹ Từ Bi》(慈悲母)，一起来欣赏一下！【越南歌曲】【佛教歌曲】【东南亚歌曲】_CN.srt">汉语翻译字幕</a> |
 | 34   | __Ngày Xưa Anh Hứa__ | 昔日许诺 | <a href="越南歌手琼庄Quỳnh Trang的《Ngày Xưa Anh Hứa》(昔日许诺)，一起来欣赏一下！【越南歌曲】【4K超高清】【东南亚歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Ngày Xưa Anh Hứa》(昔日许诺)，一起来欣赏一下！【越南歌曲】【4K超高清】【东南亚歌曲】_CN.srt">汉语翻译字幕</a> |
-| 35   | __Ai Gánh Tình Trăm Năm__ | 谁载百年情 | <a href="越南歌手琼庄Quỳnh Trang的《Ai Gánh Tình Trăm Năm》(谁载百年情)，一起来欣赏一下！【越南歌曲】【4K超高清】【东南亚歌曲】_VN.srt">越南语字幕</a> | 暂无 |
+| 35   | __Ai Gánh Tình Trăm Năm__ | 谁载百年情 | <a href="越南歌手琼庄Quỳnh Trang的《Ai Gánh Tình Trăm Năm》(谁载百年情)，一起来欣赏一下！【越南歌曲】【4K超高清】【东南亚抒情歌曲】_VN.srt">越南语字幕</a> | 暂无 |
 
 <b>
 &nbsp;&nbsp;上述所有歌词对应的MV均在本人B站账号转载，🔗<a href="https://space.bilibili.com/1065298084">单击此处跳转(https://space.bilibili.com/1065298084)</a>，欢迎大家观看。歌词原文查找自网络内容或人工逐句“听写”，歌词翻译使用LLM，有人工校对与润色，但差错在所难免，若发现错误可通过包括但不限于issues或电子邮件等任何方式与我交流。
