@@ -13,8 +13,8 @@
 | 7    | __Cát Bụi Cuộc Đời__ | 尘埃一生 | <a href="越南歌手琼庄Quỳnh Trang的《Cát Bụi Cuộc Đời》(尘埃一生)，一起来欣赏一下！【越南歌曲】【4K超高清】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Cát Bụi Cuộc Đời》(尘埃一生)，一起来欣赏一下！【越南歌曲】【4K超高清】_CN.srt">汉语翻译字幕</a> |
 | 8    | __Cõi Đêm__ | 夜境 | <a href="越南歌手琼庄Quỳnh Trang的《Cõi Đêm》(夜境)，一起来欣赏一下！【越南歌曲】【抒情歌曲】【东南亚歌曲】【Bolero】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Cõi Đêm》(夜境)，一起来欣赏一下！【越南歌曲】【抒情歌曲】【东南亚歌曲】【Bolero】_CN.srt">汉语翻译字幕</a> |
 | 9    | __Duyên Phận__ | 缘分 | <a href="越南歌手琼庄Quỳnh Trang的《Duyên Phận》(缘分)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Duyên Phận》(缘分)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_CN.srt">汉语翻译字幕</a> |
-| 10   | __Giận Anh__ | 恨你 _（又译：生你的气）_ | <a href="越南歌手琼庄Quỳnh Trang的《Giận Anh》(恨你，又译：生你的气)，一起来欣赏一下！【越南歌曲】【抒情歌曲_VN.srt">越南语字幕</a> | 暂无 |
-| 11   | __Hai Mùa Mưa__ | 两个雨季 | <a href="越南歌手琼庄Quỳnh Trang的《Hai Mùa Mưa》(两个雨季)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_VN.srt">越南语字幕</a> | 暂无 |
+| 10   | __Giận Anh__ | 恨你 _（又译：生你的气）_ | <a href="越南歌手琼庄Quỳnh Trang的《Giận Anh》(恨你，又译：生你的气)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_VN.srt">越南语字幕</a> | 暂无 |
+| 11   | __Hai Mùa Mưa__ | 两个雨季 | <a href="越南歌手琼庄Quỳnh Trang的《Hai Mùa Mưa》(两个雨季)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Hai Mùa Mưa》(两个雨季)，一起来欣赏一下！【越南歌曲】【抒情歌曲】_CN.srt">汉语翻译字幕</a> |
 | 12   | __Khuya Nay Anh Đi Rồi__ | 今晚你走了 | <a href="越南歌手琼庄Quỳnh Trang的《Khuya Nay Anh Đi Rồi》(今晚你走了)，一起来欣赏一下！【越南歌曲】【4K超高清】【MV】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Khuya Nay Anh Đi Rồi》(今晚你走了)，一起来欣赏一下！【越南歌曲】【4K超高清】【MV】_CN.srt">汉语翻译字幕</a> |
 | 13   | __Khói Lam Chiều__ | 暮霭轻愁 | <a href="越南歌手琼庄Quỳnh Trang的《Khói Lam Chiều》(暮霭轻愁)，一起来欣赏一下！【越南歌曲】【MV】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Khói Lam Chiều》(暮霭轻愁)，一起来欣赏一下！【越南歌曲】【MV】_CN.srt">汉语翻译字幕</a> |
 | 14   | __Lạc Trên Lối Cũ__ | 迷途旧路 | <a href="越南歌手琼庄Quỳnh Trang的《Lạc Trên Lối Cũ》(迷途旧路)，一起来欣赏一下！【越南歌曲】【抒情歌曲】【4K超高清】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Lạc Trên Lối Cũ》(迷途旧路)，一起来欣赏一下！【越南歌曲】【抒情歌曲】【4K超高清】_CN.srt">汉语翻译字幕</a> |
@@ -38,6 +38,7 @@
 | 32   | __Ước Nguyện__ | 祈愿 | <a href="越南歌手琼庄Quỳnh Trang的《Ước Nguyện》(祈愿)，一起来欣赏一下！【越南歌曲】【佛教歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Ước Nguyện》(祈愿)，一起来欣赏一下！【越南歌曲】【佛教歌曲】_CN.srt">汉语翻译字幕</a> |
 | 33   | __Mẹ Từ Bi__ | 慈悲母 | <a href="越南歌手琼庄Quỳnh Trang的《Mẹ Từ Bi》(慈悲母)，一起来欣赏一下！【越南歌曲】【佛教歌曲】【东南亚歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Mẹ Từ Bi》(慈悲母)，一起来欣赏一下！【越南歌曲】【佛教歌曲】【东南亚歌曲】_CN.srt">汉语翻译字幕</a> |
 | 34   | __Ngày Xưa Anh Hứa__ | 昔日许诺 | <a href="越南歌手琼庄Quỳnh Trang的《Ngày Xưa Anh Hứa》(昔日许诺)，一起来欣赏一下！【越南歌曲】【4K超高清】【东南亚歌曲】_VN.srt">越南语字幕</a> | <a href="越南歌手琼庄Quỳnh Trang的《Ngày Xưa Anh Hứa》(昔日许诺)，一起来欣赏一下！【越南歌曲】【4K超高清】【东南亚歌曲】_CN.srt">汉语翻译字幕</a> |
+| 35   | __Ai Gánh Tình Trăm Năm__ | 谁载百年情 | <a href="越南歌手琼庄Quỳnh Trang的《Ai Gánh Tình Trăm Năm》(谁载百年情)，一起来欣赏一下！【越南歌曲】【4K超高清】【东南亚歌曲】_VN.srt">越南语字幕</a> | 暂无 |
 
 <b>
 &nbsp;&nbsp;上述所有歌词对应的MV均在本人B站账号转载，🔗<a href="https://space.bilibili.com/1065298084">单击此处跳转(https://space.bilibili.com/1065298084)</a>，欢迎大家观看。歌词原文查找自网络内容或人工逐句“听写”，歌词翻译使用LLM，有人工校对与润色，但差错在所难免，若发现错误可通过包括但不限于issues或电子邮件等任何方式与我交流。
